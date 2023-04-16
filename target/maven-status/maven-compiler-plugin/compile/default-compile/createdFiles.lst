@@ -1,0 +1,15 @@
+com\negd\tpintegrador\presistencia\exceptions\IllegalOrphanException.class
+com\negd\tpintegrador\TPIntegrador.class
+com\negd\tpintegrador\presistencia\EquipoJpaController.class
+com\negd\tpintegrador\presistencia\exceptions\NonexistentEntityException.class
+com\negd\tpintegrador\controladora\Controladora.class
+com\negd\tpintegrador\Pronostico.class
+com\negd\tpintegrador\LectorPronosticos.class
+com\negd\tpintegrador\presistencia\ControladoraPersistencia.class
+com\negd\tpintegrador\EnumResultado.class
+com\negd\tpintegrador\presistencia\PartidoJpaController.class
+com\negd\tpintegrador\Equipo_.class
+com\negd\tpintegrador\Partido_.class
+com\negd\tpintegrador\Equipo.class
+com\negd\tpintegrador\Partido.class
+com\negd\tpintegrador\presistencia\exceptions\PreexistingEntityException.class
