@@ -9,7 +9,7 @@ import com.negd.tpintegrador.presistencia.ControladoraPersistencia;
 
 /**
  *
- * @author nicol
+ * @author nico
  */
 public class TPIntegrador {
 
